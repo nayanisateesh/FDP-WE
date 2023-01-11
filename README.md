@@ -1,3 +1,3 @@
 # FDP-WE
 
-this is a demo programs for CRUD Operations on MONGO-DB
+these are demo programs to demonstrate CRUD Operations on MONGO-DB
